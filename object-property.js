@@ -1,15 +1,15 @@
-const students = [
-    {id: 21, name: 'Omar'},
-    {id: 21, name: 'Mannaa'},
-    {id: 21, name: 'Mayur'},
-    {id: 21, name: 'Deep'}    
-];
- const newNames = [];
-for (let i = 0; i < students.length; i++) {
-    const element = students[i].name;
-    newNames.push(element); 
-}
-console.log(newNames);
+// const students = [
+//     {id: 21, name: 'Omar'},
+//     {id: 21, name: 'Mannaa'},
+//     {id: 21, name: 'Mayur'},
+//     {id: 21, name: 'Deep'}    
+// ];
+//  const newNames = [];
+// for (let i = 0; i < students.length; i++) {
+//     const element = students[i].name;
+//     newNames.push(element); 
+// }
+// console.log(newNames);
 
 
 const students = [
